@@ -1,0 +1,5 @@
+Credentials cache: API:FFEE8D7A-5C0C-4C4D-A2D1-5D231139A5F8
+        Principal: mafortin@42QUEBEC.COM
+
+  Issued                Expires               Principal
+Mar  9 11:54:25 2021  Mar  9 21:54:21 2021  krbtgt/42QUEBEC.COM@42QUEBEC.COM
